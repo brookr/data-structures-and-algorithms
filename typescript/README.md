@@ -1,6 +1,6 @@
 # Data Structures and Algorithms
 
-## Language: `JavaScript`
+## Language: `TypeScript`
 
 A collection of DS&A challenges completed in JavaScript.
 
